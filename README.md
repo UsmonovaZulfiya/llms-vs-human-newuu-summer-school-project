@@ -4,7 +4,8 @@
 **Team members:**  
 Muhammadyusuf Hakimov, Malikaxon Musajonova, Husan Samandarov, Quyashbek Allanazarov, Akniet Kenzhegulov, and Mirzosharif Habibov  
 
-**Academic Mentors:** Zulfiya Usmonova, Akmaljon Latifov  
+**Academic Mentors:** 
+Zulfiya Usmonova, Akmaljon Latifov  
 
 **Date:** August 14, 2025  
 
