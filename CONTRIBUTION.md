@@ -10,6 +10,7 @@ My primary contribution to this research was focused on data collection, researc
 As for the contribution I've made to specific project is that I have actively participated in all the lessons except for the one. Then we have made ourselves aware of the project by reading a lot of materials. I hope I've done my best to finish them all. Experiment 3 was totally my part, and I have done my best to successfully complete it. I have made an appealing excel file for visualization of the results gotten from the LLM models. I'd like you to see the results in terms of the report paper along with the presentation.
 
 4. **Malikaxon Musajonova.**
+Over the past two months of working with our team and mentor, I contributed mainly to data collection, research design, and analysis. I gathered human responses, encouraged participation from diverse groups, and helped design survey questions that were simple yet slightly controversial to generate varied opinions. I also worked on the “contribution to knowledge” section of our research and prepared a detailed analysis of human responses in a separate document file, which was later used as a basis for comparing them with LLM-generated outputs.
    
 6. **Quyashbek Allanazarov.**
 
