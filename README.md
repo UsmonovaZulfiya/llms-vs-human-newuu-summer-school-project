@@ -108,14 +108,24 @@ For the **8 LLMs**, the following steps were taken[8]:
 ### Reproducibility Provisions  
 We will share the materials, the report, and source codes (without API keys) in a **GitHub repository** to make reproducibility possible and accurate.  
 
-References
+### References
+
 1.Phan, L., & 1,108 others. (2025). Humanity's Last Exam. arXiv preprint arXiv:2501.14249. https://arxiv.org/abs/2501.14249
+
 2.Wang et al. (2024). Large language models empowered agent-based modeling and simulation: a survey and perspectives. Humanities and Social Sciences Communications, 11(1), 1-15. https://doi.org/10.1057/s41599-024-03611-3  Xi et al. (2023). The rise and potential of large language model based agents: a survey. arXiv preprint arXiv:2309.07864.
+
 3.Wikipedia Contributors (2025). Multi-agent system. Wikipedia, The Free Encyclopedia. Retrieved October 23, 2025, from https://en.wikipedia.org/wiki/Multi-agent_system  Guo et al. (2024). Large Language Model based Multi-Agents: A Survey of Progress and Challenges. arXiv preprint arXiv:2402.01680. https://arxiv.org/abs/2402.01680
+
 4.Aher et al. (2023). Using Large Language Models to Simulate Multiple Humans and Replicate Human Subject Studies. arXiv preprint arXiv:2208.10264. https://arxiv.org/abs/2208.10264  Park et al. (2023). Generative Agents: Interactive Simulacra of Human Behavior. arXiv preprint arXiv:2304.03442.
+
 5.Argyle et al. (2023). Out of One, Many: Using Language Models to Simulate Human Samples. Journal of Politics, 85(3), 1234-1248.  Bisbee et al. (2024). Synthetic Replacements for Human Survey Data? The Perils of Large Language Models. Political Analysis, 32(4), 401-416. https://doi.org/10.1017/pan.2024.12
+
 6.Li et al. (2024). Performance and biases of Large Language Models in public opinion simulation. Humanities and Social Sciences Communications, 11(1), 1-12. https://doi.org/10.1057/s41599-024-03609-x  Qu and Wang (2024). Should you use LLMs to simulate opinions? Quality checks for early-stage deliberation. arXiv preprint arXiv:2504.08954.
+
 7.Flamino et al. (2025). Beyond Static Responses: Multi-Agent LLM Systems as a New Paradigm for Social Science Research. arXiv preprint arXiv:2506.01839. (Discusses topics like climate and gender in debates) Cao et al. (2023). Assessing cross-cultural alignment between ChatGPT and human societies: An empirical study. arXiv preprint arXiv:2304.04676.
+
 8.Samuel et al. (2024). PersonaGym: Evaluating Persona Agents and LLMs. arXiv preprint arXiv:2407.18416. https://arxiv.org/abs/2407.18416 Argyle et al. (2023). Out of One, Many: Using Language Models to Simulate Human Samples. Journal of Politics, 85(3), 1234-1248. (Backstory/persona prompting)
+
 9.Aher et al. (2023). Using Large Language Models to Simulate Multiple Humans and Replicate Human Subject Studies. arXiv preprint arXiv:2208.10264. (Discusses randomness control) Salecha et al. (2024). Large language models display human-like social desirability biases in Big Five personality surveys. PNAS Nexus, 3(12), pgae533. https://doi.org/10.1093/pnasnexus/pgae533
+
 ---
